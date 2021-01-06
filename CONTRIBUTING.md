@@ -12,8 +12,8 @@ If you want to contribute to the code, please make a [pull request](https://gith
 
 - How you modified the code and what new functionality it has.
 - DOCSTRING update for your change
-- A working example of how it works for users. 
-- If it's a function that also can be used in downstream steps (i.e. could be plotted) we ask you (1) highlight this, and (2) idealy you provide that functionality as well. If you have any questions, please reach out: admin@deeplabcut.org 
+- A working example of how it works for users.
+- If it's a function that also can be used in downstream steps (i.e. could be plotted) we ask you (1) highlight this, and (2) idealy you provide that functionality as well. If you have any questions, please reach out: admin@deeplabcut.org
 
 **TestScript outputs:**
 
@@ -22,7 +22,7 @@ If you want to contribute to the code, please make a [pull request](https://gith
 
 **Review & Formatting:**
 
-- Please run black on the code to conform to our Black code style (see more at https://pypi.org/project/black/). 
+- Please run black on the code to conform to our Black code style (see more at https://pypi.org/project/black/).
 - Please assign a reviewer, typically @AlexEMG, @mmathislab, or @jeylau (i/e. the [core-developers](https://github.com/orgs/DeepLabCut/teams/core-developers/members))
 
 
@@ -30,4 +30,3 @@ If you want to contribute to the code, please make a [pull request](https://gith
 
 - the [authors](/AUTHORS)
 - [code contributors](https://github.com/DeepLabCut/DeepLabCut/graphs/contributors) 
-
