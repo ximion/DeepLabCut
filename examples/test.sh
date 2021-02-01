@@ -13,6 +13,6 @@ cd examples
 #python3 testscript.py
 #python3 testscript_3d.py #does not work in container
 #python3 testscript_mobilenets.py
-#python3 testscript_multianimal.py
+python3 testscript_multianimal.py
 
-python3 testscript_openfielddata_netcomparison.py
+#python3 testscript_openfielddata_netcomparison.py
